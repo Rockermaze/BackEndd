@@ -1,0 +1,4 @@
+opencv-python~=4.11.0.86
+mediapipe~=0.10.20
+numpy~=1.26.4
+fastapi~=0.115.8
